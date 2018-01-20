@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="textColor">#ffffff</color>
+    <color name="colorDivider">#bec0c1</color>
+    <color name="pureBlack">#000000</color>
+    <color name="pureWhite">#ffffff</color>
+
+    <color name="lv_0">#ff0000</color>
+    <color name="lv_1">#d4bf00</color>
+    <color name="lv_2">#009d1a</color>
+    <color name="lv_3">#4f72b7</color>
+    <color name="lv_4">#f0f0f0</color>
+
+    <color name="word_lv_0">#cccccc</color>
+    <color name="word_lv_1">#608bef</color>
+    <color name="word_lv_2">#dbe142</color>
+    <color name="word_lv_3">#d150e4</color>
+    <color name="word_lv_4">#f55858</color>
+
+</resources>
